@@ -373,7 +373,7 @@ var one = document.getElementById("nct").value;
 	 }
    else if(nine == "B" || nine == "b")
       	 {
-            var eight = 6;
+            var nine = 6;
             var mul9 = nine * 2;
 	 }
    else if(nine == "RA" || nine == "ra")
